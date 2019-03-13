@@ -115,4 +115,4 @@ dmypy.json
 
 # custom exclusion
 *.ipynb_checkpoints/
-./2019-03
+/2019-03
