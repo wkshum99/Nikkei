@@ -112,3 +112,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# custom exclusion
+*.ipynb_checkpoints/
+./2019-03
